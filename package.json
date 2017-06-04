@@ -1,32 +1,32 @@
 {
-  "name": "unvue-cli",
-  "version": "1.0.0",
-  "description": "Vue.js cli Component Creation",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/un-versed/unvue-cli.git"
-  },
-  "author": "Gustavo Henrique",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/un-versed/unvue-cli/issues"
-  },
-  "homepage": "https://github.com/un-versed/unvue-cli#readme",
-  "dependencies": {
-    "chalk": "^1.1.3",
-    "clear": "0.0.1",
-    "clui": "^0.3.1",
-    "figlet": "^1.2.0",
-    "github": "^9.2.0",
-    "inquirer": "^3.0.6",
-    "lodash": "^4.17.4",
-    "minimist": "^1.2.0",
-    "preferences": "^0.2.1",
-    "simple-git": "^1.73.0",
-    "touch": "^1.0.0"
-  }
+    "name": "unvue-cli",
+    "version": "1.0.3",
+    "description": "Vue.js cli Component Creation",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/un-versed/unvue-cli.git"
+    },
+    "author": "Gustavo Henrique",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/un-versed/unvue-cli/issues"
+    },
+    "homepage": "https://github.com/un-versed/unvue-cli#readme",
+    "dependencies": {
+        "chalk": "^1.1.3",
+        "clear": "0.0.1",
+        "clui": "^0.3.1",
+        "figlet": "^1.2.0",
+        "github": "^9.2.0",
+        "inquirer": "^3.0.6",
+        "lodash": "^4.17.4",
+        "minimist": "^1.2.0",
+        "preferences": "^0.2.1",
+        "simple-git": "^1.73.0",
+        "touch": "^1.0.0"
+    }
 }

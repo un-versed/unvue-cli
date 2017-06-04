@@ -19,7 +19,7 @@ var complete = false;
 
 clear()
 
-console.log('oi')
+
 if (argv.g) {
     if (typeof argv.c == 'string') {
         while (!complete) {
