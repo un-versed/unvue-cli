@@ -1,10 +1,10 @@
-#UNVUE-CLI
-###Tool for creating Components in Vue.js src folder
+# UNVUE-CLI
+### Tool for creating Components in Vue.js src folder
 
-##INSTALL
+## INSTALL
 
 `npm install -g unvue-cli`
 
-##USAGE
+## USAGE
 
 In vue ` ./src `  root just type ` unvue-cli -g -c <component-name> `
