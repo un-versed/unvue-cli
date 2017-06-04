@@ -62,7 +62,7 @@ module.exports = {
                 // Create The .js
                 this.createFile(dir + '/' + argv.c, argv.c + '.js', '');
             } else {
-                console.error('Directory Already Exists.');
+                console.error('Directory Already Exists!');
                 process.exit(1);
             }
         }
