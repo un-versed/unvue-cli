@@ -1,6 +1,6 @@
 {
     "name": "unvue-cli",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Vue.js cli Component Creation",
     "main": "index.js",
     "scripts": {
